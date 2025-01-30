@@ -15,8 +15,9 @@
 
 |Stage|Activity|Date|Comment|Code Link|
 |--|--|--|--|--|
-|1|EDA|2025.01.28|데이터 탐색 및 시각화||
-|2|ML|2025.01.29 ~|머신러닝 예측 모델 개발||
+|1|EDA|2025.01.28|데이터 탐색 및 시각화|[EDA](https://github.com/SeokcheonMoon/dacon_realestate_fraud_detector/blob/main/DA/EDA.ipynb)|
+|2|CDA|2025.01.30|가설 검증|[CDA](https://github.com/SeokcheonMoon/dacon_realestate_fraud_detector/blob/main/DA/CDA.ipynb)|
+|2|ML|2025.01.31 ~|머신러닝 예측 모델 개발||
 
 ## 분석 결과
 
